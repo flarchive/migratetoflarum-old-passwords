@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of migratetoflarum/old-passwords.** Not for installation: use [Packagist](https://packagist.org/packages/migratetoflarum/old-passwords) or the [upstream repository](https://github.com/migratetoflarum/old-passwords).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**9** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-01-24 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v0.1.0) |
+| `0.2.0` | 2018-02-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v0.2.0) |
+| `0.3.0` | 2018-04-23 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v0.3.0) |
+| `0.4.0` | 2018-11-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v0.4.0) |
+| `0.5.0` | 2020-05-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v0.5.0) |
+| `0.5.1` | 2020-10-25 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v0.5.1) |
+| `0.5.2` | 2020-12-20 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v0.5.2) |
+| `0.6.0` | 2021-03-18 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v0.6.0) |
+| `1.0.0` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/migratetoflarum-old-passwords/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/migratetoflarum-old-passwords.json](https://github.com/flarchive/archive-index/blob/main/packages/migratetoflarum-old-passwords.json)
 
